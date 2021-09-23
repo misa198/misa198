@@ -27,7 +27,7 @@
   <code><img src="./assets/react.svg" alt="ReactJS" height="20px" /></code>
   <code><img src="./assets/vue.svg" alt="VueJS" height="20px" width="20px" /></code>
   <code><img src="./assets/redux.svg" alt="Redux" height="20px" /></code>
-  <code><img src="./assets/next.svg" alt="NextJS" height="20px" /></code>
+  <code><img src="./assets/next.png" alt="NextJS" height="20px" width="20px" /></code>
   <code><img src="./assets/nuxt.svg" alt="NuxtJS" height="20px" /></code>
   <code><img src="./assets/styled-components.svg" alt="Styled Components" height="20px" width="22px" /></code>
   <code><img src="./assets/tailwindcss.svg" alt="TailwindCSS" height="20px" width="22px" /></code>
@@ -51,9 +51,7 @@
 <a href="https://twitter.com/misa19820"><img src="https://img.shields.io/twitter/url?label=Thanh%20Vu&style=social&url=https%3A%2F%2Ftwitter.com%2Fmisa19820" /></a>
 </p>
 
-<br/>
-<br/>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misa198&show_icons=true&theme=radical&&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misa198&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misa198&show_icons=true&theme=vue-dark&&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misa198&layout=compact&theme=vue-dark"/>
 </div>
