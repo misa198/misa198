@@ -12,7 +12,3 @@ I work as a Software Engineer. Connect with me, check out this links:
 
 <p><a href="https://www.buymeacoffee.com/misa1982"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="misa1982" /></a></p>
 
-<br><br>
-
-![profile 3d light](./profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only)
-![profile 3d dark](./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
