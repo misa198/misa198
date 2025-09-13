@@ -2,7 +2,7 @@
 
 My name is Thanh Vu.
 
-I work as a Software Engineer. Connect with me, check out this links:
+I work as a Software Engineer. Connect with me:
 
 - :bird: [Twitter](https://twitter.com/misa19820)
 - :office: [LinkedIn](https://www.linkedin.com/in/thanhvu198/)
